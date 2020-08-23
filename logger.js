@@ -1,4 +1,4 @@
-var url='http://mylogger.io/log';
+var url='http://log.io/';
 
 function log(message) {
 	console.log(message);
