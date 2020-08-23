@@ -1,5 +1,2 @@
-function hello(name){
-	console.log('Hello '+name);
-}
-
-hello("sir");
+const log =require('./logger');
+log('message');
