@@ -5,4 +5,8 @@ function factorial(n){
 	   return 1;
    
    } 
-   
+   function main() {
+    const n = +(readLine());
+    
+    console.log(factorial(n));
+}
